@@ -1,0 +1,7 @@
+{
+  "name": "Copy of TASKUP: Smart Productivity App",
+  "description": "A smart productivity app designed to manage daily tasks, updates, and automated notifications with a modern, minimal UI.",
+  "requestFramePermissions": [
+    "serial"
+  ]
+}
